@@ -1,0 +1,9 @@
+.badge {
+	line-height: 15px;
+	width: 15px;
+	padding: 0;
+	background: #6AD58B;
+	position: relative;
+	top: -15px;
+	left: -15px;
+}
